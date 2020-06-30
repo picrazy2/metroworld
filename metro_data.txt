@@ -1,0 +1,56 @@
+ORANGE LINE:
+Rio de Janeiro,Sao Paulo,Montevideo,Buenos Aires,Santiago,La Paz,Lima,Quito,Bogota,Medellin,Panama City,San Jose,Managua,Tegucigalpa,San Salvador,Guatemala City,Mexico City,Guadalajara,Los Angeles,San Francisco,Seattle,Vancouver,Anchorage,Khabarovsk,Harbin,Shenyang,Beijing,Wuhan,Guangzhou,Shenzhen,Hong Kong,Manila,Davao,Dili,Port Moresby,Brisbane,Sydney,Melbourne
+BRANCH L from Los Angeles:
+Phoenix,Dallas,Houston,Miami,Nassau
+BRANCH L from Seattle:
+Chicago,Washington D.C.,New York City,Boston
+BRANCH R from Port Moresby:
+Honiara,Noumea,Suva
+
+RED LINE:
+Caracas,Bogota,Quito,Lima,La Paz,Santa Cruz de la Sierra,Asuncion,Sao Paulo,Rio de Janeiro,Salvador,Fortaleza,Lagos,Abuja,Kano,Tunis,Rome,Milan,Monaco,Lyon,Paris,Brussels,Amsterdam,Copenhagen,Oslo,Stockholm,Helsinki,Saint Petersburg,Moscow,Kazan,Yekaterinburg,Novosibirsk,Krasnoyarsk,Irkutsk,Ulaanbaatar,Beijing,Jinan,Shanghai,Hangzhou,Taipei,Hong Kong,Macau,Sanya
+BRANCH R from Irkutsk:
+Khabarovsk,Vladivostok,Sapporo,Tokyo
+
+PURPLE LINE:
+Vancouver,Calgary,Winnipeg,Toronto,Ottawa,Montreal,New York City,Atlanta,Houston,Monterrey,Mexico City,Guatemala City,Belize City,Kingston,Port-au-Prince,Santo Domingo,San Juan,Basse-Terre,Fort-de-France,Bridgetown,Port of Spain
+
+BRONZE LINE:
+Santiago,Buenos Aires,Montevideo,Sao Paulo,Rio de Janeiro,Belo Horizonte,Brasilia,Cayenne,Paramaribo,Georgetown,Port of Spain,Caracas,Santo Domingo,Port-au-Prince,Kingston,Havana,Miami,Atlanta,Washington D.C.,New York City,Boston,Dublin,London,Paris,Barcelona,Casablanca,Laayoune,Nouakchott,Dakar,Banjul,Bissau,Conakry,Freetown,Monrovia,Abidjan,Accra,Lome,Cotonou,Lagos,Douala,Bata,Libreville,Luanda,Lubumbashi,Lusaka,Gaborone,Johannesburg
+BRANCH R from London:
+Brussels,Frankfurt,Prague,Bratislava,Budapest,Belgrade,Sofia,Istanbul,Ankara,Beirut,Amman,Doha,Dubai
+BRANCH R from Nouakchott:
+Bamako,Ouagadougou,Niamey,Kano,N'Djamena,Bangui,Juba,Kampala,Nairobi
+
+AQUA LINE:
+Reykjavik,Glasgow,London,Paris,Zurich,Ljubljana,Zagreb,Sarajevo,Tirana,Skopje,Istanbul,Ankara,Yerevan,Tbilisi,Baku,Tehran,Ashgabat,Dushanbe,Tashkent,Bishkek,Almaty,Urumqi,Xi'an,Beijing,Tianjin,Shanghai,Hangzhou,Taipei,Hong Kong,Macau,Hanoi,Vientiane,Bangkok,Phuket,Kuala Lumpur,Singapore,Jakarta,Surabaya,Bali,Perth,Melbourne,Sydney,Auckland,Christchurch
+BRANCH R from Tianjin:
+Dalian,Seoul,Busan,Fukuoka,Osaka,Tokyo
+
+SILVER LINE:
+London,Madrid,Casablanca,Algiers,Tunis,Tripoli,Alexandria,Cairo,Jerusalem,Amman,Riyadh,Abu Dhabi,Dubai,Muscat,Karachi,Surat,Ahmadabad,Mumbai,Pune,Bangalore,Colombo,Medan,Kuala Lumpur,Singapore,Bandar Seri Begawan,Manila,Taipei,Seoul,Pyongyang,Shenyang
+
+NAVY LINE:
+Dakar,Bamako,Ouagadougou,Accra,Lagos,Yaounde,Bangui,Mwanza,Nairobi,Mogadishu,Male,Mumbai,Delhi,Kathmandu,Thimphu,Chengdu,Chongqing,Wuhan,Nanjing,Shanghai,Seoul,Busan,Fukuoka,Osaka,Tokyo
+
+LIGHTGREEN LINE:
+Cape Town,Windhoek,Luanda,Brazzaville,Kinshasa,Bujumbura,Kigali,Kampala,Nairobi,Mogadishu,Addis Ababa,Asmara,Khartoum,Cairo,Jerusalem,Beirut,Damascus,Baghdad,Tehran,Mashhad,Kabul,Islamabad,Lahore,Delhi,Lucknow,Dhaka,Chittagong,Mandalay,Yangon,Bangkok,Phnom Penh,Ho Chi Minh City,Singapore,Jakarta,Bali,Dili
+BRANCH R from Phnom Penh:
+Manila
+
+BLUE LINE:
+Cape Town,Maseru,Johannesburg,Mbabane,Maputo,Harare,Lilongwe,Dar es Salaam,Mombasa,Nairobi,Addis Ababa,Djibouti,Sanaa,Dubai,Doha,Manama,Kuwait City,Tehran,Karachi,Lahore,Delhi,Nagpur,Hyderabad,Bangalore,Chennai
+BRANCH L from Dar es Salaam:
+Moroni,Antananarivo,Saint-Denis,Port Louis
+
+LILAC LINE:
+Bangkok,Yangon,Dhaka,Kolkata,Hyderabad,Mumbai,Surat,Ahmadabad,Karachi,Muscat,Dubai,Abu Dhabi,Riyadh,Jeddah,Cairo,Athens,Istanbul,Bucharest,Chisinau,Kyiv,Minsk,Vilnius,Riga,Tallinn,Helsinki,Saint Petersburg,Moscow
+BRANCH R from Athens:
+Rome,Zagreb,Vienna,Prague,Berlin,Copenhagen
+
+DARKGREEN LINE:
+Hong Kong,Taipei,Shanghai,Seoul,Tokyo,Honolulu,Los Angeles,Las Vegas,Denver,Chicago,Toronto,New York City,Lisbon,Madrid,Barcelona,London,Amsterdam,Berlin,Warsaw,Kyiv,Sevastopol,Moscow
+BRANCH R from Barcelona:
+Milan,Rome,Athens,Cairo
+BRANCH L from Seoul:
+Beijing,Xi'an,Chengdu,Bangkok
