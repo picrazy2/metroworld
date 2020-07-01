@@ -1,0 +1,5 @@
+MAX_SPEED_KMH = 1200 # kmh
+ACCELERATION = 3 # m/s2. CONSTANT ACCELERATION ONLY. DE_ACCELERATION MUST BE SAME (otherwise math too complicated)
+TIME_AT_STATION_MINUTES = 5 # minutes. Train stopping time at each station.
+TRANSFER_TIME_MINUTES = 30 # minutes. Time needed from stopping of one train to getting on of another at the same station
+EXPRESS_POP_CUTOFF = 2000000 # Population needed for an express station (transfer stations are automatically express)
