@@ -26,7 +26,7 @@ The MetroWorld network is represented by a graph (set of vertices and edges), so
 
 Now you're ready to enter your route(s)! You can do this as many times with just building the network once. Run the below:
 
-- Run `python3 find_route.py "City 1" "City 2"`. The two cities do not need to be in quotes if they do not contain spaces. They also need to be spelled correctly. At this point, you should have a `station_df.csv` file, which has a list of all the stations, so reference that if you're getting errors because of spelling. This script will run Dijkstra's shortest path algorithm to find and return your shortest path and some additional stats.
+- Run `python3 find_route.py "City 1" "City 2"`. The two cities do not need to be in quotes if they do not contain spaces. They also need to be spelled correctly. At this point, you should have a `station_df.csv` file, which has a list of all the stations, so reference that if you're getting errors because of spelling. This script will run Dijkstra's shortest path algorithm to find and return your shortest path and some additional stats. Specifically, you'll see the best path optimized by speed, and a best path optimized by number of transfers, since some people would prioritize less transfers than others.
 
 
 If you find errors, FB message me or email me at alexanderguo99@gmail.com. I wrote this pretty hastily so I have no idea if things actually always work properly. 
